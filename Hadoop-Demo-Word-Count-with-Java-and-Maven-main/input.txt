@@ -1,0 +1,10 @@
+hello
+car
+car
+bus
+car
+truck
+motor
+car
+car
+bus
