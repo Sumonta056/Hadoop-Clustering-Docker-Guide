@@ -1,6 +1,34 @@
 
 <div align = "center">
 
+*------ **🧠 For Lab Exam : This step are enough 🧠** ------*
+
+# 🌲 Hadoop Clusterting using Docker
+
+#### ✍️ Follow Every Blog Instruction of [মেহরাজুল ইসলাম](https://github.com/codermehraj) :  **([👉Click Here](https://medium.com/@genius_meringue_gnat_79/running-single-node-mapreduce-using-docker-and-hadoop-cluster-41f5ec5b7650))**
+
+<hr>
+
+*------ **🎥 Video Tutorial of Blog : [Rifat Shariar Sakil](https://github.com/Rifat-Shariar-Sakil-24) 🎥** ------*
+
+##### ✍️ Video of Blog Steps 1 - 5 :  **([👉Click Here](https://drive.google.com/file/d/1iZnPTpOrcLlHRYkJSsV6CM2Q6uVYBkd-/view))**
+
+
+##### ✍️ Video of Blog Steps 6 - 10 :  **([👉Click Here](https://drive.google.com/file/d/10Kw1I6i2ZpSQk_zM7vces1um3EswGm5z/view))**
+
+
+##### ✍️ Video of Blog Steps 11 - 13 :  **([👉Click Here](https://drive.google.com/file/d/1Bf86YzzApHFwgcdfMCncI0uAsLtskO_Z/view))**
+
+
+</div>
+
+<hr>
+
+
+<div align = "center">
+
+*-- **🧠 Do The Below Steps if only want to see how hadoop works 🧠** --*
+
 # 🎥 Tutorial Installation of Hadoop
 
 #### 🧠 Follow Every Instruction Carefully  **([👉Click Here](https://youtu.be/knAS0w-jiUk?si=DffG6Zoubzt2Dad3))**
