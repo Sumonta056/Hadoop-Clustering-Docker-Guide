@@ -12,12 +12,12 @@ docker ps
 docker cp MapReduce-1.0-SNAPSHOT-jar-with-dependencies.jar namenode:/tmp/
 ```
 ```
-docker cp input namenode:/tmp/
+docker cp input.txt namenode:/tmp/
 ```
 
 - Check Docker successfully received the Files
 ```
-- docker cp input.txt namenode:/tmp/
+- docker exec -it namenode bash
 - ls
 - cd tmp/
 - ls
