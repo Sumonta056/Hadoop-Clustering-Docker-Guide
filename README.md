@@ -7,6 +7,8 @@
 
 #### ✍️ Follow Every Blog Instruction of [মেহরাজুল ইসলাম](https://github.com/codermehraj) :  **([👉Click Here](https://medium.com/@genius_meringue_gnat_79/running-single-node-mapreduce-using-docker-and-hadoop-cluster-41f5ec5b7650))**
 
+#### ✍️ To Run Hadoop Docker using Your Project Jar File  :  **([👉Click Here](./CMD.md))**
+
 <hr>
 
 *------ **🎥 Video Tutorial of Blog : [Rifat Shariar Sakil](https://github.com/Rifat-Shariar-Sakil-24) 🎥** ------*
