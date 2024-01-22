@@ -10,15 +10,15 @@ public class WordCountMapper extends
         Mapper<Object, Text, Text, IntWritable> {
  
     private final IntWritable ONE = new IntWritable(1);
-    private Text word = new Text();
- 
+    private Text word = new Text("This"); // Set the word to "test"
     public void map(Object key, Text value, Context context)
             throws IOException, InterruptedException {
- 
-        String[] csv = value.toString().split(",");
-        for (String str : csv) {
-            word.set(str);
-            context.write(word, ONE);
+
+        String[] words = value.toString().split("\\s+"); // Split by whitespace
+        for (String str : words) {
+            if (str.equals(word.toString())) {
+                context.write(word, ONE);
+            }
         }
     }
 }
