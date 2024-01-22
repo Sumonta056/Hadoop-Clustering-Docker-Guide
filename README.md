@@ -53,6 +53,8 @@
 
 #### 🧠 Hadoop Fixed Bin Folder : **([👉Click Here](https://drive.google.com/file/d/1nCN_jK7EJF2DmPUUxgOggnvJ6k6tksYz/view))**
 
+#### 🧠 Hadoop All Version Bin Folder Fixed : **([👉Click Here](https://github.com/kontext-tech/winutils))**
+
 #### 🧠 Microsoft Visual C++ Redistributable : **([👉Click Here](https://drive.google.com/file/d/1nCN_jK7EJF2DmPUUxgOggnvJ6k6tksYz/view))**
 
 <hr>
