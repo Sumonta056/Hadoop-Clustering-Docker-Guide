@@ -1,0 +1,8 @@
+Docker what
+what is container
+why docker is important
+how to write docker syntax
+docker image
+docker compose
+
+Video Checks Note for hadoop - mapreduce
